@@ -8,7 +8,6 @@ This joke will be about catching a polar bear.
    Punch Line is complete.
 2. Second Joke
    1. Setup
-   This is where the setup will be.
+   Setup is complete.
    2. Punch line
-   This is where the punch line will be.
-This joke will be about TBD.
+   Punch Line is complete.
